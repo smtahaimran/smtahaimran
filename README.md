@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **smtahaimran@gmail.com**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/smtahaimran </h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/smtahaimran </h3>
 <p align="left">
 </p>
 
