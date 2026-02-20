@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha Imran</h1>
-<h3 align="center">DATA ANALYST |Microsoft EXCEL |Microsoft PowerBI| PostgreSQL</h3>
+<h3 align="center">DATA ANALYST |Microsoft EXCEL |Microsoft PowerBI| PostgreSQL|Python Programming|</h3>
 
 - 🌱 I’m currently learning **Python**
 
